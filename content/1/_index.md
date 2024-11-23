@@ -1,7 +1,7 @@
 ---
 title: Introduction to Securities
 linkTitle: Introduction to Securities
-description: Learn the Basics of Stocks, Bonds, and Investing
+description: Discover the fundamentals of securities investing in this comprehensive beginner's guide. Understand stocks, bonds, mutual funds, ETFs, and how financial markets work to build your portfolio.
 type: docs
 nav_weight: 1
 menu:
@@ -9,7 +9,7 @@ menu:
     parent: beginner
     weight: 1
     params:
-      description: 
+      description: Learn the Basics of Stocks, Bonds, and Investing
       icon:
         vendor: bs
         name: book
