@@ -122,12 +122,12 @@ Understanding and calculating real returns is a vital component of successful in
 
 ### Which formula is used to approximate real returns?
 
-- [x] \\( r \approx i - \pi \\)
-- [ ] \\( r = i + \pi \\)
-- [ ] \\( r = i \times \pi \\)
-- [ ] \\( r = i/\pi \\)
+- [x] \( r \approx i - \pi \)
+- [ ] \( r = i + \pi \)
+- [ ] \( r = i \times \pi \)
+- [ ] \( r = i/\pi \)
 
-> **Explanation:** The approximation \\( r \approx i - \pi \\) is used to calculate real returns by subtracting the inflation rate from the nominal return.
+> **Explanation:** The approximation \( r \approx i - \pi \) is used to calculate real returns by subtracting the inflation rate from the nominal return.
 
 ### Why is it important to calculate real returns?
 

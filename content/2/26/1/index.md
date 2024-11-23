@@ -200,10 +200,10 @@ Investment calculation worksheets are invaluable tools for any investor looking 
 
 ### What is the formula for calculating Return on Investment (ROI)?
 
-- [x] \\(\text{ROI} = \left(\frac{\text{Final Value} - \text{Initial Investment}}{\text{Initial Investment}}\right) \times 100\\)
-- [ ] \\(\text{ROI} = \left(\frac{\text{Initial Investment} - \text{Final Value}}{\text{Final Value}}\right) \times 100\\)
-- [ ] \\(\text{ROI} = \left(\frac{\text{Final Value} \times \text{Initial Investment}}{\text{Initial Investment}}\right) \times 100\\)
-- [ ] \\(\text{ROI} = \left(\frac{\text{Final Value} - \text{Initial Investment}}{\text{Final Value}}\right) \times 100\\)
+- [x] \(\text{ROI} = \left(\frac{\text{Final Value} - \text{Initial Investment}}{\text{Initial Investment}}\right) \times 100\)
+- [ ] \(\text{ROI} = \left(\frac{\text{Initial Investment} - \text{Final Value}}{\text{Final Value}}\right) \times 100\)
+- [ ] \(\text{ROI} = \left(\frac{\text{Final Value} \times \text{Initial Investment}}{\text{Initial Investment}}\right) \times 100\)
+- [ ] \(\text{ROI} = \left(\frac{\text{Final Value} - \text{Initial Investment}}{\text{Final Value}}\right) \times 100\)
 
 > **Explanation:** ROI is calculated by dividing the difference between the final value and the initial investment by the initial investment, then multiplying by 100 to express it as a percentage.
 
@@ -230,12 +230,12 @@ Investment calculation worksheets are invaluable tools for any investor looking 
 
 ### How do you calculate the Present Value (PV) of a future sum?
 
-- [x] \\(\text{PV} = \frac{\text{FV}}{(1 + r)^t}\\)
-- [ ] \\(\text{PV} = \text{FV} \times (1 + r)^t\\)
-- [ ] \\(\text{PV} = \text{FV} - (1 + r)^t\\)
-- [ ] \\(\text{PV} = \text{FV} + (1 + r)^t\\)
+- [x] \(\text{PV} = \frac{\text{FV}}{(1 + r)^t}\)
+- [ ] \(\text{PV} = \text{FV} \times (1 + r)^t\)
+- [ ] \(\text{PV} = \text{FV} - (1 + r)^t\)
+- [ ] \(\text{PV} = \text{FV} + (1 + r)^t\)
 
-> **Explanation:** The present value is calculated by dividing the future value by \\((1 + r)^t\\), where \\(r\\) is the interest rate and \\(t\\) is the time period.
+> **Explanation:** The present value is calculated by dividing the future value by \((1 + r)^t\), where \(r\) is the interest rate and \(t\) is the time period.
 
 
 ### What is the primary purpose of using investment calculation worksheets?
@@ -250,12 +250,12 @@ Investment calculation worksheets are invaluable tools for any investor looking 
 
 ### What is the formula for calculating future value (FV) using compound interest?
 
-- [x] \\(\text{FV} = P \times \left(1 + \frac{r}{n}\right)^{n \times t}\\)
-- [ ] \\(\text{FV} = P + \left(1 + \frac{r}{n}\right)^{n \times t}\\)
-- [ ] \\(\text{FV} = P \times \left(1 - \frac{r}{n}\right)^{n \times t}\\)
-- [ ] \\(\text{FV} = P + \left(1 - \frac{r}{n}\right)^{n \times t}\\)
+- [x] \(\text{FV} = P \times \left(1 + \frac{r}{n}\right)^{n \times t}\)
+- [ ] \(\text{FV} = P + \left(1 + \frac{r}{n}\right)^{n \times t}\)
+- [ ] \(\text{FV} = P \times \left(1 - \frac{r}{n}\right)^{n \times t}\)
+- [ ] \(\text{FV} = P + \left(1 - \frac{r}{n}\right)^{n \times t}\)
 
-> **Explanation:** The future value using compound interest is calculated by multiplying the principal by \\((1 + \frac{r}{n})^{n \times t}\\), where \\(P\\) is the principal, \\(r\\) is the interest rate, \\(n\\) is the number of compounding periods, and \\(t\\) is the time.
+> **Explanation:** The future value using compound interest is calculated by multiplying the principal by \((1 + \frac{r}{n})^{n \times t}\), where \(P\) is the principal, \(r\) is the interest rate, \(n\) is the number of compounding periods, and \(t\) is the time.
 
 
 ### Why is it important to account for inflation in retirement planning?

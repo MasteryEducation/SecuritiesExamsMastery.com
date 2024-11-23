@@ -177,10 +177,10 @@ Understanding the difference between real and nominal returns is essential for m
 
 ### What is the formula for calculating nominal return?
 
-- [x] \\(\left( \frac{\text{Ending Value} - \text{Beginning Value}}{\text{Beginning Value}} \right) \times 100\\)
-- [ ] \\(\left( \frac{\text{Ending Value} + \text{Beginning Value}}{\text{Beginning Value}} \right) \times 100\\)
-- [ ] \\(\left( \frac{\text{Ending Value} - \text{Beginning Value}}{\text{Ending Value}} \right) \times 100\\)
-- [ ] \\(\left( \frac{\text{Beginning Value} - \text{Ending Value}}{\text{Beginning Value}} \right) \times 100\\)
+- [x] \(\left( \frac{\text{Ending Value} - \text{Beginning Value}}{\text{Beginning Value}} \right) \times 100\)
+- [ ] \(\left( \frac{\text{Ending Value} + \text{Beginning Value}}{\text{Beginning Value}} \right) \times 100\)
+- [ ] \(\left( \frac{\text{Ending Value} - \text{Beginning Value}}{\text{Ending Value}} \right) \times 100\)
+- [ ] \(\left( \frac{\text{Beginning Value} - \text{Ending Value}}{\text{Beginning Value}} \right) \times 100\)
 
 > **Explanation:** The formula calculates the percentage increase in the value of an investment.
 

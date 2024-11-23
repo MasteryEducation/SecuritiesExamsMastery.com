@@ -124,12 +124,12 @@ Inflation is an inevitable economic force that can significantly impact your inv
 
 ### What is the formula for calculating the real rate of return?
 
-- [x] \\(\frac{1 + \text{Nominal Rate}}{1 + \text{Inflation Rate}} - 1\\)
-- [ ] \\(\text{Nominal Rate} - \text{Inflation Rate}\\)
-- [ ] \\(\text{Inflation Rate} - \text{Nominal Rate}\\)
-- [ ] \\(\text{Nominal Rate} \times \text{Inflation Rate}\\)
+- [x] \(\frac{1 + \text{Nominal Rate}}{1 + \text{Inflation Rate}} - 1\)
+- [ ] \(\text{Nominal Rate} - \text{Inflation Rate}\)
+- [ ] \(\text{Inflation Rate} - \text{Nominal Rate}\)
+- [ ] \(\text{Nominal Rate} \times \text{Inflation Rate}\)
 
-> **Explanation:** The real rate of return is calculated using the formula \\(\frac{1 + \text{Nominal Rate}}{1 + \text{Inflation Rate}} - 1\\), which adjusts the nominal return for inflation.
+> **Explanation:** The real rate of return is calculated using the formula \(\frac{1 + \text{Nominal Rate}}{1 + \text{Inflation Rate}} - 1\), which adjusts the nominal return for inflation.
 
 ### Which of the following is a strategy to mitigate inflation's impact on investments?
 

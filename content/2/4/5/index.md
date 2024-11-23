@@ -159,12 +159,12 @@ For further learning, consider exploring compound interest lessons from educatio
 
 ### Which of the following is the formula for compound interest?
 
-- [x] \\( A = P \left(1 + \frac{r}{n}\right)^{nt} \\)
-- [ ] \\( A = P \times (1 + rt) \\)
-- [ ] \\( A = P \times e^{rt} \\)
-- [ ] \\( A = P \left(1 + rt\right) \\)
+- [x] \( A = P \left(1 + \frac{r}{n}\right)^{nt} \)
+- [ ] \( A = P \times (1 + rt) \)
+- [ ] \( A = P \times e^{rt} \)
+- [ ] \( A = P \left(1 + rt\right) \)
 
-> **Explanation:** The correct formula for compound interest is \\( A = P \left(1 + \frac{r}{n}\right)^{nt} \\), which accounts for the principal, interest rate, compounding frequency, and time.
+> **Explanation:** The correct formula for compound interest is \( A = P \left(1 + \frac{r}{n}\right)^{nt} \), which accounts for the principal, interest rate, compounding frequency, and time.
 
 ### What does the variable 'n' represent in the compound interest formula?
 
@@ -191,7 +191,7 @@ For further learning, consider exploring compound interest lessons from educatio
 - [ ] $1,081.60
 - [ ] $1,083.20
 
-> **Explanation:** Using the formula \\( A = 1000 \left(1 + \frac{0.04}{4}\right)^{4 \times 2} = 1000 \times (1.01)^8 = 1082.43 \\).
+> **Explanation:** Using the formula \( A = 1000 \left(1 + \frac{0.04}{4}\right)^{4 \times 2} = 1000 \times (1.01)^8 = 1082.43 \).
 
 ### Which compounding frequency yields the highest future value for a given interest rate and time period?
 
@@ -227,7 +227,7 @@ For further learning, consider exploring compound interest lessons from educatio
 - [ ] $2,345.67
 - [ ] $2,350.00
 
-> **Explanation:** Using the formula \\( A = 2000 \left(1 + \frac{0.05}{12}\right)^{12 \times 3} = 2000 \times (1.004167)^{36} = 2348.85 \\).
+> **Explanation:** Using the formula \( A = 2000 \left(1 + \frac{0.05}{12}\right)^{12 \times 3} = 2000 \times (1.004167)^{36} = 2348.85 \).
 
 ### True or False: Compounding frequency has no effect on simple interest calculations.
 

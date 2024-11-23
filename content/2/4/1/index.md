@@ -115,7 +115,7 @@ Mastering the concepts of present value and future value is a vital step in beco
 - [ ] $500.00
 - [ ] $520.00
 
-> **Explanation:** Using the formula \\( PV = \frac{FV}{(1 + r)^n} \\), we calculate \\( PV = \frac{500}{(1 + 0.04)^3} = \frac{500}{1.12486} \approx 444.44 \\).
+> **Explanation:** Using the formula \( PV = \frac{FV}{(1 + r)^n} \), we calculate \( PV = \frac{500}{(1 + 0.04)^3} = \frac{500}{1.12486} \approx 444.44 \).
 
 ### If you invest $2000 today at an annual interest rate of 6%, what will be the Future Value (FV) in 4 years?
 
@@ -124,7 +124,7 @@ Mastering the concepts of present value and future value is a vital step in beco
 - [x] $2524.95
 - [ ] $2600
 
-> **Explanation:** Using the formula \\( FV = PV \times (1 + r)^n \\), we calculate \\( FV = 2000 \times (1 + 0.06)^4 = 2000 \times 1.26248 \approx 2524.95 \\).
+> **Explanation:** Using the formula \( FV = PV \times (1 + r)^n \), we calculate \( FV = 2000 \times (1 + 0.06)^4 = 2000 \times 1.26248 \approx 2524.95 \).
 
 ### Why is money today worth more than the same amount in the future?
 
@@ -151,16 +151,16 @@ Mastering the concepts of present value and future value is a vital step in beco
 - [x] $1157.63
 - [ ] $1200
 
-> **Explanation:** Using the formula \\( FV = PV \times (1 + r)^n \\), we calculate \\( FV = 1000 \times (1 + 0.05)^3 = 1000 \times 1.15763 \approx 1157.63 \\).
+> **Explanation:** Using the formula \( FV = PV \times (1 + r)^n \), we calculate \( FV = 1000 \times (1 + 0.05)^3 = 1000 \times 1.15763 \approx 1157.63 \).
 
 ### Which formula is used to calculate Present Value (PV)?
 
-- [x] \\( PV = \frac{FV}{(1 + r)^n} \\)
-- [ ] \\( PV = FV \times (1 + r)^n \\)
-- [ ] \\( PV = FV \times r \\)
-- [ ] \\( PV = FV \div r \\)
+- [x] \( PV = \frac{FV}{(1 + r)^n} \)
+- [ ] \( PV = FV \times (1 + r)^n \)
+- [ ] \( PV = FV \times r \)
+- [ ] \( PV = FV \div r \)
 
-> **Explanation:** The formula for Present Value (PV) is \\( PV = \frac{FV}{(1 + r)^n} \\).
+> **Explanation:** The formula for Present Value (PV) is \( PV = \frac{FV}{(1 + r)^n} \).
 
 ### What is the Present Value (PV) of $1500 to be received in 2 years with an annual interest rate of 3%?
 
@@ -169,7 +169,7 @@ Mastering the concepts of present value and future value is a vital step in beco
 - [ ] $1450
 - [ ] $1500
 
-> **Explanation:** Using the formula \\( PV = \frac{FV}{(1 + r)^n} \\), we calculate \\( PV = \frac{1500}{(1 + 0.03)^2} = \frac{1500}{1.0609} \approx 1412.62 \\).
+> **Explanation:** Using the formula \( PV = \frac{FV}{(1 + r)^n} \), we calculate \( PV = \frac{1500}{(1 + 0.03)^2} = \frac{1500}{1.0609} \approx 1412.62 \).
 
 ### If you invest $5000 today at an annual interest rate of 7%, what will be the Future Value (FV) in 5 years?
 
@@ -178,7 +178,7 @@ Mastering the concepts of present value and future value is a vital step in beco
 - [x] $7012.76
 - [ ] $7500
 
-> **Explanation:** Using the formula \\( FV = PV \times (1 + r)^n \\), we calculate \\( FV = 5000 \times (1 + 0.07)^5 = 5000 \times 1.40255 \approx 7012.76 \\).
+> **Explanation:** Using the formula \( FV = PV \times (1 + r)^n \), we calculate \( FV = 5000 \times (1 + 0.07)^5 = 5000 \times 1.40255 \approx 7012.76 \).
 
 ### Why is it important to consider inflation when calculating PV and FV?
 

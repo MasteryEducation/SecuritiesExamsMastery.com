@@ -168,12 +168,12 @@ The power of compounding is a fundamental principle of investing that can lead t
 
 ### What is the formula for compound interest?
 
-- [x] \\( A = P \left(1 + \frac{r}{n}\right)^{nt} \\)
-- [ ] \\( A = P(1 + rt) \\)
-- [ ] \\( A = P \times r \times t \\)
-- [ ] \\( A = P + rt \\)
+- [x] \( A = P \left(1 + \frac{r}{n}\right)^{nt} \)
+- [ ] \( A = P(1 + rt) \)
+- [ ] \( A = P \times r \times t \)
+- [ ] \( A = P + rt \)
 
-> **Explanation:** The formula for compound interest is \\( A = P \left(1 + \frac{r}{n}\right)^{nt} \\), where A is the amount, P is the principal, r is the rate, n is the number of times interest is compounded per year, and t is the time in years.
+> **Explanation:** The formula for compound interest is \( A = P \left(1 + \frac{r}{n}\right)^{nt} \), where A is the amount, P is the principal, r is the rate, n is the number of times interest is compounded per year, and t is the time in years.
 
 ### What is the primary benefit of using a dividend reinvestment plan (DRIP)?
 

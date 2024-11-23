@@ -193,7 +193,7 @@ Profitability ratios are indispensable for investors seeking to evaluate a compa
 - [ ] 10%
 - [ ] 25%
 
-> **Explanation:** The Net Profit Margin is calculated as \\( \left( \frac{100,000}{500,000} \right) \times 100 = 20\%\\).
+> **Explanation:** The Net Profit Margin is calculated as \( \left( \frac{100,000}{500,000} \right) \times 100 = 20\%\).
 
 ### What is a high ROA indicative of?
 
