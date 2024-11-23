@@ -103,12 +103,12 @@ To enhance understanding, consider the following diagram illustrating the compon
 
 ```mermaid
 graph TD;
-    A[Gross Domestic Product (GDP)] --> B[Consumer Spending (C)];
-    A --> C[Investment (I)];
-    A --> D[Government Spending (G)];
-    A --> E[Net Exports (NX)];
-    E --> F[Exports (X)];
-    E --> G[Imports (M)];
+    A["Gross Domestic Product (GDP)"] --> B["Consumer Spending (C)"];
+    A --> C["Investment (I)"];
+    A --> D["Government Spending (G)"];
+    A --> E["Net Exports (NX)"];
+    E --> F["Exports (X)"];
+    E --> G["Imports (M)"];
 ```
 
 ### Best Practices, Common Pitfalls, and Strategies
