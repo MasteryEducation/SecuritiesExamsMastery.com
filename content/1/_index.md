@@ -6,7 +6,7 @@ type: docs
 nav_weight: 1
 menu:
   main:
-    parent: Beginner
+    parent: beginner
     weight: 1
     params:
       description: 
