@@ -1,6 +1,6 @@
 ---
 canonical: "https://securitiesexamsmastery.com/17/8/3"
-title: "Comprehensive Summary of Major Securities Laws and Regulations"
+title: "Summary of Major Securities Laws and Regulations"
 description: "Explore the key securities laws and regulations essential for the SIE Exam, including the Securities Act of 1933, Securities Exchange Act of 1934, and more."
 linkTitle: "8.3 Summary of Major Securities Laws and Regulations"
 categories:

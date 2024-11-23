@@ -1,5 +1,5 @@
 ---
-title: Securities Industry Essentials (SIE) Exam Prep
+title: SIE Exam Prep
 linkTitle: SIE Exam Prep
 description: A comprehensive study guide for the SIE exam, covering fundamental concepts, product knowledge, regulatory agencies, and ethical considerations essential for entry-level securities professionals.
 type: docs
@@ -9,7 +9,7 @@ menu:
     parent: exams
     weight: 17
     params:
-      description: Foundations of the Securities Industry
+      description: Securities Industry Essentials Exam
       icon:
         vendor: bs
         name: book
