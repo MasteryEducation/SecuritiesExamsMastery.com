@@ -138,7 +138,7 @@ For further exploration of ETFs, consider reviewing the following resources:
 
 ---
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

@@ -99,7 +99,7 @@ Understanding insider trading laws and enforcement acts is crucial for the SIE E
 
 ---
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

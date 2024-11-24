@@ -105,7 +105,7 @@ Going public often necessitates changes in corporate governance, including the e
 - **SEC's Guide to IPOs:** [Investor Bulletin: IPOs](https://www.sec.gov/oiea/investor-alerts-and-bulletins/ib_ipo)
 - **Educational Articles on the IPO Process**
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

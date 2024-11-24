@@ -130,7 +130,7 @@ Understanding the regulatory framework and compliance requirements for electroni
 
 Electronic communications and social media are powerful tools for engaging with clients and the public. However, they come with significant regulatory responsibilities. By understanding and adhering to the guidelines set forth by FINRA and other regulatory bodies, firms can effectively leverage these tools while maintaining compliance and protecting client information. As you prepare for the SIE Exam, focus on mastering the regulatory requirements and best practices for electronic communications to ensure success in your future career in the securities industry.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

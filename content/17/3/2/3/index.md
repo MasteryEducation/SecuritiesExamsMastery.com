@@ -120,7 +120,7 @@ For the SIE Exam, it is important to understand the various types, features, and
 - **MSRB Education Center:** [Municipal Securities](http://www.msrb.org/EducationCenter)
 - **Investopedia - Municipal Bonds:** [Understanding Munis](https://www.investopedia.com/terms/m/municipalbond.asp)
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

@@ -167,7 +167,7 @@ Which type of risk is associated with the possibility of a bond issuer defaultin
 
 > **Explanation:** Credit risk is the risk that a bond issuer will default on its payments, affecting the bondholder's returns. Market risk involves price fluctuations, interest rate risk relates to changes in interest rates, and inflation risk concerns the erosion of purchasing power.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

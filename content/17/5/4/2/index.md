@@ -145,7 +145,7 @@ For those preparing for the SIE Exam, understanding OBAs is crucial. Here are so
 
 Outside Business Activities are a critical aspect of regulatory compliance in the securities industry. By understanding the requirements of FINRA Rule 3270 and adopting best practices, registered persons and firms can navigate the complexities of OBAs effectively. This knowledge not only helps in exam preparation but also ensures ethical and compliant professional conduct in the financial services industry.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

@@ -119,7 +119,7 @@ Consider the following scenario: A brokerage firm notices a series of transactio
 
 For the SIE Exam, focus on understanding the criteria for filing a SAR, the confidentiality requirements, and the legal protections afforded to those who file SARs. Be prepared to answer questions about the timing and content of SARs, as well as the broader role they play in AML compliance.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

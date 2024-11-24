@@ -152,7 +152,7 @@ graph TD;
 
 To apply these principles, consider creating a mock portfolio and practicing asset allocation based on different risk profiles and investment goals. This hands-on approach will reinforce your understanding and prepare you for the exam.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

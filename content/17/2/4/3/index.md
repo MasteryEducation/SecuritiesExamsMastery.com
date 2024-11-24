@@ -141,7 +141,7 @@ Central banks use interest rates as a tool to manage inflation and economic grow
   - [Interest Rates](https://www.investopedia.com/terms/i/interestrate.asp)
   - [Inflation](https://www.investopedia.com/terms/i/inflation.asp)
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

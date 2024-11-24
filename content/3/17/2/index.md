@@ -121,7 +121,7 @@ Building a portfolio is not a one-time task. Regular monitoring and rebalancing 
 
 By following these steps, you can build a well-rounded stock portfolio that aligns with your financial goals and risk tolerance. Remember, investing is a long-term endeavor, and patience and discipline are key to achieving success.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

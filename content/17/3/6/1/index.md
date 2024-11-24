@@ -119,7 +119,7 @@ For the SIE Exam, it is essential to understand the following aspects of hedge f
 - **SEC's Investor Bulletin:** [Hedge Funds](https://www.sec.gov/oiea/investor-alerts-bulletins/ib_hedgefunds)
 - **FINRA's Investor Resources:** [Understanding Alternative Investments](https://www.finra.org/investors/insights/alternative-mutual-funds)
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

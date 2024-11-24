@@ -157,7 +157,7 @@ Consider an investor who wants to purchase $10,000 worth of stock using a margin
 
 Margin accounts are a powerful tool for investors, offering the potential for increased returns through leverage. However, they also come with significant risks that must be carefully managed. Understanding the key components, regulatory requirements, and risks associated with margin accounts is essential for success on the SIE Exam and in your future career in the securities industry.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

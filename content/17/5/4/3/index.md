@@ -106,7 +106,7 @@ Violations of Pay-to-Play rules can result in severe penalties, including fines,
 
 By understanding and adhering to these rules, you can ensure compliance and maintain the integrity of your firm's operations in the securities industry. Remember, thorough knowledge of these regulations not only aids in exam preparation but also equips you for a successful career in the financial sector.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

@@ -104,7 +104,7 @@ Imagine a situation where a widespread investment scam is affecting multiple sta
 
 State securities regulators and NASAA are fundamental components of the U.S. securities regulatory framework. Their efforts in enforcing laws, educating investors, and coordinating with federal entities ensure a robust and fair securities market. Understanding their roles and responsibilities is essential for anyone pursuing a career in the securities industry and preparing for the SIE Exam.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

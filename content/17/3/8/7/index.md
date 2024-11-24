@@ -95,7 +95,7 @@ For those preparing for the Securities Industry Essentials (SIE) Exam, understan
 
 Political and legislative risk is an ever-present factor in the investment landscape. By understanding its characteristics and impacts, and employing effective management strategies, investors can better navigate the uncertainties posed by political and legislative changes. This knowledge is not only vital for investment success but also for passing the SIE Exam and advancing in the securities industry.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

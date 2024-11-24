@@ -107,7 +107,7 @@ For further exploration of public offerings and the regulatory framework, consid
 - **SEC's Guide to the Registration Process:** [SEC Registration Process](https://www.sec.gov/oiea/Article/ipo-registration-process.html)
 - **Educational Resources on Public Offerings and Underwriting**
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

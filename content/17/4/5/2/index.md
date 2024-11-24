@@ -112,7 +112,7 @@ Common pitfalls to avoid include:
 
 The USA PATRIOT Act plays a vital role in safeguarding the U.S. financial system from money laundering and terrorist financing. By understanding and complying with its provisions, securities professionals can help protect their institutions and contribute to national security efforts. As you prepare for the SIE Exam, focus on the key requirements and compliance obligations outlined in this section, and consider how they apply to real-world scenarios in the securities industry.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

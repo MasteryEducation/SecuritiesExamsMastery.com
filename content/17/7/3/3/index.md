@@ -153,7 +153,7 @@ For further insights into exam techniques, consider exploring resources such as 
 
 ---
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

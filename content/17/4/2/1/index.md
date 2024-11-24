@@ -235,7 +235,7 @@ A busy executive, Jordan, opens a discretionary account with a financial advisor
 
 The SIE Exam will test your understanding of the different types of customer accounts, their characteristics, and regulatory considerations. Be prepared to identify the appropriate account type for various scenarios and understand the documentation and compliance requirements for each.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

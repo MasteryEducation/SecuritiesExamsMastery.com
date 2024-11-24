@@ -223,7 +223,7 @@ The DTCC is the primary U.S. clearinghouse, providing central custody of securit
 - **FINRA Resource on Market Participants:** [Roles in the Marketplace](https://www.finra.org/investors/learn-to-invest/types-investments/roles-marketplace)
 - **DTCC Official Website:** [www.dtcc.com](https://www.dtcc.com/)
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

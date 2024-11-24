@@ -190,7 +190,7 @@ For further exploration of mutual funds, consider the following authoritative re
 - **SEC's Investor Bulletin:** [Mutual Funds](https://www.investor.gov/introduction-investing/investing-basics/investment-products/mutual-funds)
 - **FINRA's Fund Analyzer:** [FINRA Fund Analyzer](https://tools.finra.org/fund_analyzer/)
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

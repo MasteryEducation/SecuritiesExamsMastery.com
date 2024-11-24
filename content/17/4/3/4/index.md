@@ -127,7 +127,7 @@ For the SIE Exam, it is essential to understand the types of disclosures require
 
 ---
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

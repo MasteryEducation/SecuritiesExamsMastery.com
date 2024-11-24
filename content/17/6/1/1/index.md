@@ -129,7 +129,7 @@ graph TD;
 
 Gross Domestic Product (GDP) is a fundamental economic indicator that provides insights into the health and performance of an economy. Understanding its components, differences between nominal and real GDP, and its implications for investment decisions is crucial for success in the SIE Exam. By mastering GDP analysis, you will be better equipped to navigate the complexities of the securities industry and make informed financial decisions.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

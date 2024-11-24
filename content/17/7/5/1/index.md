@@ -81,7 +81,7 @@ Understanding your exam results is not just about knowing whether you passed or 
 
 For more information on understanding your exam score and the retake policy, visit FINRA's official page on [Understanding Your Exam Score](https://www.finra.org/registration-exams-ce/qualification-exams/results).
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

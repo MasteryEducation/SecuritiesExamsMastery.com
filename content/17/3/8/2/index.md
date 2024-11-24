@@ -117,7 +117,7 @@ Understanding credit risk is essential for the SIE Exam, as it affects various a
 - **SEC Investor Publications:** [Credit Ratings](https://www.sec.gov/investor/alerts/ib_creditratings.pdf)
 - **FINRA Investor Education:** [Understanding Bond Credit Ratings](https://www.finra.org/investors/highlights/understanding-bond-credit-ratings)
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

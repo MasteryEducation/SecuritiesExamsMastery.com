@@ -140,7 +140,7 @@ To effectively prepare for the SIE Exam, consider the following strategies:
 
 Understanding FINRA's rules and bylaws is essential for anyone entering the securities industry. By regulating broker-dealers and ensuring ethical practices, FINRA plays a crucial role in maintaining market integrity and protecting investors. As you prepare for the SIE Exam, focus on the key rules, registration requirements, and ethical standards that govern the industry.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

@@ -137,7 +137,7 @@ Understanding the roles and functions of various SROs beyond FINRA and the MSRB 
 - **NASDAQ Regulation:** [Nasdaq - Regulation](https://www.nasdaq.com/solutions/regulation)
 - **CBOE Regulatory Division:** [CBOE - Regulation](https://www.cboe.com/aboutcboe/legal-regulatory)
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

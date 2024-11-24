@@ -114,7 +114,7 @@ For further reading and authoritative resources, consider the following:
 - **SEC's Investor Bulletin:** [REITs](https://www.sec.gov/investor/alerts/ia_reits.pdf)
 - **FINRA's Investor Resources:** [Understanding REITs](https://www.finra.org/investors/alerts/public-non-traded-reits)
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

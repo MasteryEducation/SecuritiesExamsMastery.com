@@ -116,7 +116,7 @@ Firms should have procedures in place for reporting suspicious activities to reg
 
 ---
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

@@ -118,7 +118,7 @@ Continuing education and professional development are not only essential for com
 
 - **FINRA Continuing Education:** [Continuing Education Requirements](https://www.finra.org/registration-exams-ce/continuing-education)
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

@@ -104,7 +104,7 @@ For the SIE Exam, it is essential to understand what an ETN is and how it differ
 
 By understanding the structure, benefits, risks, and regulatory considerations of ETNs, you will be well-prepared for the SIE Exam and equipped to make informed investment decisions in your professional career.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

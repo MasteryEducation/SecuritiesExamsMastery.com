@@ -115,7 +115,7 @@ For further exploration and authoritative references, consult the following reso
 
 ---
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

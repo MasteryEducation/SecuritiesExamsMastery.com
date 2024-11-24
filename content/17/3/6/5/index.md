@@ -148,7 +148,7 @@ As you prepare for the SIE Exam, it is essential to understand the basic concept
 - **SEC's Investor Alerts:** [Initial Coin Offerings and Cryptocurrencies](https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-alerts/investment)
 - **FINRA's Investor Insights:** [Cryptocurrency](https://www.finra.org/investors/insights/should-you-invest-cryptocurrency)
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

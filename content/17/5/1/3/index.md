@@ -103,7 +103,7 @@ Understanding the Investment Company Act of 1940 is essential for the SIE Exam. 
 - **Investor Publications on Mutual Funds:** [SEC - Mutual Funds and ETFs](https://www.investor.gov/introduction-investing/investing-basics/investment-products/mutual-funds-and-exchange-traded-funds-etfs)
 - **Investopedia:** [Investment Company Act of 1940](https://www.investopedia.com/terms/i/investment-company-act.asp)
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

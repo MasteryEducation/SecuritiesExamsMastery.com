@@ -99,7 +99,7 @@ For the SIE Exam, it is essential to understand the basic structure and purpose 
 
 Structured products are versatile financial instruments that offer tailored investment solutions. While they provide opportunities for enhanced returns and risk management, they also carry significant risks that require careful consideration. Understanding the intricacies of structured products is vital for the SIE Exam and for making informed investment decisions.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

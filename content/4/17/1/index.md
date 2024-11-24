@@ -110,7 +110,7 @@ Using options for hedging a stock position is a powerful strategy for managing r
 
 ---
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

@@ -129,7 +129,7 @@ The globalization of financial markets presents a world of opportunities for inv
 
 As we continue to explore the future trends in securities investing, understanding the impact of globalization will be essential for making informed investment decisions and achieving long-term financial success.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

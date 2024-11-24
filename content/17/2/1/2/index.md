@@ -99,7 +99,7 @@ For more information, visit the [SEC on SROs](https://www.sec.gov/fast-answers/a
 - **Self-Regulatory Organization (SRO):** An entity with the power to create and enforce industry regulations without direct government intervention.
 - **Financial Industry Regulatory Authority (FINRA):** An SRO responsible for overseeing U.S. broker-dealers and administering securities licensing exams.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

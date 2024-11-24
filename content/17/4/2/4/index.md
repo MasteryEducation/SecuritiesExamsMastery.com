@@ -124,7 +124,7 @@ For those preparing for the SIE Exam, understanding the requirements and purpose
 
 ---
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

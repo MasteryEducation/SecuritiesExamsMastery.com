@@ -104,7 +104,7 @@ Interest rate swaps are versatile financial instruments that enable companies to
 - Financial intermediaries facilitate swaps by matching counterparties and providing expertise.
 - Regulatory oversight ensures transparency and reduces systemic risk.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

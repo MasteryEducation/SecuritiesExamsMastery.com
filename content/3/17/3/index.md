@@ -101,7 +101,7 @@ Interest rate changes can impact the technology sector, which often relies on bo
 
 ---
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

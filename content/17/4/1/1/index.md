@@ -148,7 +148,7 @@ Understanding order types is not only crucial for the SIE Exam but also for real
 - **Practice Scenarios:** Work through examples to see how different order types function in various market conditions.
 - **Remember Risks:** Be aware of the risks associated with each order type, as these are commonly tested on the exam.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

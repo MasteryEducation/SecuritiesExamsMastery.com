@@ -121,7 +121,7 @@ The NSCC provides clearing, settlement, risk management, and central counterpart
 - **SEC's Regulation NMS Overview:** [SEC - Regulation NMS](https://www.sec.gov/divisions/marketreg/nmsfaq.htm)
 - **Investopedia:** [Order Execution](https://www.investopedia.com/terms/e/execution.asp)
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

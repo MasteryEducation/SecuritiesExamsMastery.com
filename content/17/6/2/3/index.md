@@ -103,7 +103,7 @@ For the SIE Exam, it is essential to understand how monetary and fiscal policies
 - **Federal Reserve:** [Policy Impact Reports](https://www.federalreserve.gov/monetarypolicy/mpr_default.htm)
 - **Investopedia:** [How Monetary Policy Affects Investments](https://www.investopedia.com/articles/investing/072915/how-monetary-policy-affects-your-investments.asp)
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

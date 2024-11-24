@@ -148,7 +148,7 @@ For the SIE Exam, it is essential to recognize the different types of money mark
 - **SEC's Investor Bulletin:** [Money Market Funds](https://www.sec.gov/investor/alerts/mmf-investoralert.htm)
 - **Federal Reserve Education:** [The Money Market](https://www.federalreserve.gov/releases/h15/about.htm)
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

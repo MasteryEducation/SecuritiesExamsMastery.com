@@ -233,7 +233,7 @@ The glossary is an essential component of your study materials for the Securitie
 
 ---
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

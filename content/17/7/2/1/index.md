@@ -131,7 +131,7 @@ For more on active reading strategies, visit [Active Reading Strategies](https:/
 
 ---
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

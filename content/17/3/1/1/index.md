@@ -142,7 +142,7 @@ For further exploration, consider the following resources:
 
 Common stock is a cornerstone of equity securities, offering ownership, voting rights, and potential financial benefits. However, it also carries risks that investors must understand and manage. As you prepare for the SIE Exam, focus on the characteristics, rights, benefits, and risks of common stock, and apply this knowledge to real-world scenarios and regulatory contexts.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

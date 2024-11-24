@@ -152,7 +152,7 @@ Understanding the Federal Reserve's tools and functions is crucial for the SIE E
 
 ---
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

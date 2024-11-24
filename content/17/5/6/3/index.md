@@ -180,7 +180,7 @@ A robust Business Continuity Plan is essential for securities firms to navigate 
 
 ---
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

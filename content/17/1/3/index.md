@@ -103,7 +103,7 @@ These resources provide comprehensive guidance on the registration process, exam
 
 ---
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

@@ -90,7 +90,7 @@ To maximize your chances of success, consider the following strategies:
 
 Understanding the format and scoring of the SIE Exam is a crucial step in your preparation journey. By familiarizing yourself with the exam structure, scoring methodology, and retake policy, you can approach the exam with confidence and a clear strategy for success. Remember to utilize the resources and references provided to enhance your study efforts and achieve your goal of passing the SIE Exam.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

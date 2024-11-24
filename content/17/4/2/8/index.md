@@ -120,7 +120,7 @@ For the SIE Exam, it is crucial to understand the distinctions between discretio
 - **SEC Guidance on Fiduciary Duty:** [Investment Advisers and Fiduciary Obligations](https://www.sec.gov/divisions/investment/advoverview.htm)
 - **Investopedia:** [Understanding Discretionary Accounts](https://www.investopedia.com/terms/d/discretionaryaccount.asp)
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

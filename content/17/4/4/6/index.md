@@ -107,7 +107,7 @@ Preventing churning is a shared responsibility between brokers, firms, and regul
 
 Understanding the nuances of churning and excessive trading is critical for anyone preparing for the SIE Exam. By mastering these concepts, you will not only be well-prepared for the exam but also equipped to uphold the highest ethical standards in your securities career.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

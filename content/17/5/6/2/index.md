@@ -150,7 +150,7 @@ A firm that consistently fails to comply with regulatory requirements may strugg
 
 ---
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

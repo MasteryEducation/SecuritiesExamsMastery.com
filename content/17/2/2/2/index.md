@@ -131,7 +131,7 @@ To excel in the SIE Exam, it is essential to understand the structure and functi
 - **SEC on Secondary Markets:** [Securities Markets Overview](https://www.sec.gov/education/generalinformation/eregister/market.htm)
 - **FINRA's Explanation of Market Structure**
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

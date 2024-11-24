@@ -102,7 +102,7 @@ For further exploration of shelf registrations and SEC Rule 415, consider review
 
 ---
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

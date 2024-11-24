@@ -128,7 +128,7 @@ An indirect quote is the amount of foreign currency needed to buy one unit of do
 
 ---
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

@@ -117,7 +117,7 @@ Managing stress and maintaining focus are crucial for the SIE Exam as they:
 
 ---
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

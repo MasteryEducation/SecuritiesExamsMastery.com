@@ -135,7 +135,7 @@ Understanding the categories of communications and their associated requirements
 - **FINRA Regulatory Notices:** [Guidance on Social Networking Websites](https://www.finra.org/rules-guidance/notices/11-39)
 - **SEC Investor Publications:** [Advertising Requirements](https://www.sec.gov/investment/advertising)
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

@@ -117,7 +117,7 @@ For the SIE Exam, you should focus on understanding the following aspects of fix
 
 ---
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

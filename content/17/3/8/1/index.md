@@ -102,7 +102,7 @@ Understanding market risk is crucial for the SIE Exam, as it is inherent to inve
 
 Market risk, or systematic risk, is an unavoidable aspect of investing that affects all securities within a market or asset class. It arises from factors such as economic changes, political events, and natural disasters, and cannot be eliminated through diversification within the same asset class. However, investors can manage market risk through strategies such as asset allocation, hedging, and global diversification. Understanding market risk is essential for the SIE Exam and your future career in the securities industry.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

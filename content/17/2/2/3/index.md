@@ -118,7 +118,7 @@ A brokerage firm operating in the Third Market must ensure that all trades are r
 - **Educational Articles on Market Structures:** Explore resources that provide deeper insights into the various market structures and their functions.
 - **SEC Resources on Alternative Trading Systems:** Review SEC guidelines and regulations pertaining to alternative trading systems and their role in modern securities trading.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

@@ -114,7 +114,7 @@ graph TD;
 
 In summary, the SIE Exam is a comprehensive assessment of your foundational knowledge in the securities industry. By understanding the exam structure, content areas, and scoring criteria, you can effectively prepare and increase your chances of success. Utilize the resources provided, practice regularly, and focus on mastering the key concepts to excel in the exam.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

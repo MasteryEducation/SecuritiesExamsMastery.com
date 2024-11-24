@@ -89,7 +89,7 @@ For the SIE Exam, understanding the cash flow statement is crucial. You should b
 
 - **Investopedia:** [Cash Flow Statement Definition](https://www.investopedia.com/terms/c/cashflowstatement.asp)
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

@@ -102,7 +102,7 @@ Continuous education is crucial for both employees and clients:
 
 ---
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

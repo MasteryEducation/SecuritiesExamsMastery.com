@@ -100,7 +100,7 @@ Understanding the influence of these regulatory bodies is crucial for profession
 - **OCC Official Website:** [www.occ.gov](https://www.occ.gov/)
 - **Educational Resources on Monetary Policy:** [Federal Reserve Education](https://www.federalreserveeducation.org/)
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

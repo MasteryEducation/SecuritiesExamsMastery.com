@@ -155,7 +155,7 @@ For the SIE Exam, focus on understanding the regulatory framework and implicatio
 
 Statutory disqualification is a pivotal concept in the securities industry, with significant implications for individuals and firms. By understanding its causes, regulatory framework, and compliance requirements, you can effectively prepare for the SIE Exam and navigate the complexities of the securities industry.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

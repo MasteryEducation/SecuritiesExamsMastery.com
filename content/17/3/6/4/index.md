@@ -96,7 +96,7 @@ For the SIE Exam, candidates should understand the nature of commodities and how
 - **CFTC's Educational Resources:** [Futures and Options](https://www.cftc.gov/ConsumerProtection/EducationCenter/index.htm)
 - **Investopedia:** [Commodity Futures](https://www.investopedia.com/terms/c/commodityfutures.asp)
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

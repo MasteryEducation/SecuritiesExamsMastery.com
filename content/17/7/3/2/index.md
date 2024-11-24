@@ -103,7 +103,7 @@ Effective time management is crucial for the SIE Exam. It prevents the need to r
 
 For further reading on time management strategies, consider exploring [Effective Time Management](https://www.princetonreview.com/college-advice/time-management-tips).
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

@@ -134,7 +134,7 @@ To effectively prepare for the SIE Exam, focus on understanding the key provisio
 
 By mastering the Sarbanes-Oxley Act, you will be well-equipped to tackle related questions on the SIE Exam and apply this knowledge in your future career in the securities industry.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

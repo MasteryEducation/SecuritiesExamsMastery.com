@@ -123,7 +123,7 @@ For further reading and authoritative resources, consider the following:
 
 ---
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

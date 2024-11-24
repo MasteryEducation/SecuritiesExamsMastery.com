@@ -108,7 +108,7 @@ Understanding the purposes and procedures of Forms U4 and U5 is crucial for the 
 - **FINRA BrokerCheck:** [BrokerCheck](https://brokercheck.finra.org/)
 - **SEC Guidance on Registration Forms:** [SEC - Forms and Filings](https://www.sec.gov/forms)
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

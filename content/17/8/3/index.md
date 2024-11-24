@@ -112,7 +112,7 @@ For more detailed summaries of major securities laws and regulations, see Append
 
 ---
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

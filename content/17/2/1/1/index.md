@@ -116,7 +116,7 @@ The SEC is a pivotal entity in the U.S. securities markets, ensuring that they f
 
 ---
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

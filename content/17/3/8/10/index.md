@@ -88,7 +88,7 @@ For those preparing for the SIE Exam, understanding concentration risk is crucia
 - **Investopedia:** [Understanding Concentration Risk](https://www.investopedia.com/terms/c/concentrationrisk.asp)
 - **SEC Investor Publications:** [Importance of Diversification](https://www.investor.gov/introduction-investing/basics/how-invest/diversification)
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

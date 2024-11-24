@@ -138,7 +138,7 @@ For the SIE Exam, it is essential to understand the structure, characteristics, 
 - **FINRA's Investor Alerts:** [Direct Participation Programs](https://www.finra.org/investors/alerts/direct-participation-programs)
 - **SEC's Guide on Limited Partnerships:** [Limited Partnerships](https://www.sec.gov/fast-answers/answerslimitedparthtm.html)
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

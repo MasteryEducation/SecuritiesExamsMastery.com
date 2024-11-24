@@ -95,7 +95,7 @@ It's natural to feel nervous, but try to remain calm and focused. Take deep brea
 - **Test-Taking Strategies:** Explore educational articles on effective exam techniques to further enhance your preparation.
 - **FINRA Candidate Resources:** Visit [Test Day Tips](https://www.finra.org/registration-exams-ce/qualification-exams/take-exam) for additional guidance from FINRA.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

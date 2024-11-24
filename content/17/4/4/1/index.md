@@ -124,7 +124,7 @@ When preparing for the SIE Exam, focus on understanding the legal definitions an
 
 ---
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

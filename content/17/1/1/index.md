@@ -73,7 +73,7 @@ Educational articles that explain the career benefits of the SIE Exam, such as I
 
 The Securities Industry Essentials (SIE) Exam is an essential component of a successful career in the securities industry. By evaluating a candidate's foundational knowledge, it ensures that individuals are well-prepared to navigate the complexities of the industry and adhere to its high ethical standards. Whether you're just starting your career or looking to enhance your qualifications, the SIE Exam is a crucial step in your professional journey.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

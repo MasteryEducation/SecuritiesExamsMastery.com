@@ -88,7 +88,7 @@ For further exploration of the Efficient Market Hypothesis, consider the followi
 
 - **Investopedia:** [Efficient Market Hypothesis Definition](https://www.investopedia.com/terms/e/efficientmarkethypothesis.asp)
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

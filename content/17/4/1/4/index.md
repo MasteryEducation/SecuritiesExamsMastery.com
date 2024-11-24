@@ -105,7 +105,7 @@ Short selling and Regulation SHO are critical components of the securities tradi
 - **FINRA's Investor Alert:** [Understanding Short Sales](https://www.finra.org/investors/insights/short-sales)
 - **Investopedia:** [Short Selling](https://www.investopedia.com/terms/s/shortselling.asp)
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

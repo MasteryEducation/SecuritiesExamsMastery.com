@@ -117,7 +117,7 @@ For the SIE Exam, it is important to understand the features and legal considera
 - **FINRA Investor Education:** [Understanding UGMA and UTMA Custodial Accounts](https://www.finra.org/investors/insights/custodial-accounts)
 - **IRS Topic No. 553:** [Tax on a Child's Investment and Other Unearned Income (Kiddie Tax)](https://www.irs.gov/taxtopics/tc553)
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

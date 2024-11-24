@@ -120,7 +120,7 @@ Understanding fundamental analysis is crucial for the SIE Exam. Key areas of foc
 
 Fundamental analysis is a powerful tool for evaluating the intrinsic value of securities. By understanding economic factors, industry conditions, and company-specific data, investors can make informed decisions about the true value of a security. Mastering fundamental analysis is essential for success in the SIE Exam and a career in the securities industry.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

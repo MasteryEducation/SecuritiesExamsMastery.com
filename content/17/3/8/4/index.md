@@ -112,7 +112,7 @@ For the SIE Exam, it is essential to recognize how inflation affects investment 
 - **Investopedia:** [Understanding Inflation Risk](https://www.investopedia.com/terms/i/inflationrisk.asp)
 - **SEC Investor Publications:** [Inflation and Your Portfolio](https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/inflation)
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

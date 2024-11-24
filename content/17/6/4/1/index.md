@@ -140,7 +140,7 @@ In the real world, income statements are used by investors, analysts, and compan
 
 ---
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

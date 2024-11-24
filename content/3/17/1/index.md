@@ -116,7 +116,7 @@ An investment thesis is a rationale for investing or not investing in a company.
 
 ---
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

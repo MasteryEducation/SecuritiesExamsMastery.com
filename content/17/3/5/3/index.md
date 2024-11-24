@@ -138,7 +138,7 @@ For the SIE Exam, it's crucial to understand:
 - **FINRA's Investor Insights:** [Variable Life Insurance](https://www.finra.org/investors/insights/variable-life-insurance)
 - **SEC's Investor Publications:** [Variable Life Insurance Policies](https://www.sec.gov/fast-answers/answersvarlifehtm.html)
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

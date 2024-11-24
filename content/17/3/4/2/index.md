@@ -158,7 +158,7 @@ To succeed in the SIE Exam, you must understand both basic and advanced options 
 
 ---
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

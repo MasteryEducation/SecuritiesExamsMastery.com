@@ -107,7 +107,7 @@ Utilizing study groups and resources is crucial for a comprehensive understandin
 
 By effectively utilizing study groups and resources, you can create a supportive and enriching learning environment that enhances your understanding of the SIE Exam material. Remember to stay organized, set clear goals, and leverage the diverse resources available to you. With dedication and the right strategies, you'll be well on your way to acing the SIE Exam.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

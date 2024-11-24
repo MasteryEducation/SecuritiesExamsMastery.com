@@ -107,7 +107,7 @@ Studying past market crashes provides valuable insights into the causes and cons
 
 By understanding the causes and consequences of historical market crashes, investors can develop strategies to protect their portfolios and achieve long-term financial success.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

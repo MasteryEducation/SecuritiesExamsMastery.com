@@ -156,7 +156,7 @@ flowchart TD
 
 Remember, the SIE Exam is a stepping stone to a rewarding career in the securities industry. By mastering the art of reviewing your answers and avoiding errors, you are setting yourself up for success. Stay focused, trust your preparation, and approach the exam with confidence.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

@@ -134,7 +134,7 @@ For further exploration of online brokerage accounts, consider consulting the fo
 
 Online brokerage accounts are invaluable tools for investors, offering access to a wide range of securities and investment opportunities. By carefully evaluating features, fees, and services, you can choose a platform that aligns with your investment goals and preferences. As you embark on your investing journey, remember to prioritize security and stay informed about market developments.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

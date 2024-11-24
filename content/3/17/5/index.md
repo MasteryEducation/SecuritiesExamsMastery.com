@@ -127,7 +127,7 @@ The success stories of Warren Buffett and Peter Lynch, along with the cautionary
 - **Biographies and Memoirs:** "The Snowball: Warren Buffett and the Business of Life" by Alice Schroeder.
 - **Case Studies on Corporate Fraud:** Reports from the Securities and Exchange Commission (SEC) and academic journals.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

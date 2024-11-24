@@ -82,7 +82,7 @@ Pursuing additional licensing exams is not just about fulfilling regulatory requ
 
 For more information on FINRA qualification exams, visit [FINRA Registration and Qualification](https://www.finra.org/registration-exams-ce/qualification-exams).
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

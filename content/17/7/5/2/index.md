@@ -107,7 +107,7 @@ To deepen your understanding of the registration process and enhance your career
 
 Registering with a FINRA member firm is a crucial step in your securities career. By understanding the registration process, leveraging networking opportunities, and preparing for additional exams, you can successfully transition from passing the SIE exam to becoming a registered securities professional.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

@@ -126,7 +126,7 @@ Consider the following scenarios to understand how mobile apps can be used effec
 
 Mobile apps have transformed the investing landscape, offering convenience, accessibility, and powerful tools for investors at all levels. By understanding the features and security considerations of these apps, you can confidently incorporate them into your investment strategy, paving the way for financial growth and security.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

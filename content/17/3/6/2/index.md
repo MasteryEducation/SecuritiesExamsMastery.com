@@ -126,7 +126,7 @@ For the SIE Exam, it is crucial to understand the nature of private equity and v
 - **Investopedia:** [Private Equity](https://www.investopedia.com/terms/p/privateequity.asp)
 - **SEC's Investor Resources:** [Private Placements](https://www.sec.gov/fast-answers/answersregdhtm.html)
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

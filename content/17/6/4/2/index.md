@@ -137,7 +137,7 @@ Consider a scenario where you are evaluating two companies for potential investm
 
 For further reading and a deeper understanding of balance sheets, consider visiting [Investopedia's Balance Sheet Definition](https://www.investopedia.com/terms/b/balancesheet.asp).
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

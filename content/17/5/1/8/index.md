@@ -130,7 +130,7 @@ Understanding the Dodd-Frank Act is crucial for the SIE Exam, as it covers key a
 
 ---
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

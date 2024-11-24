@@ -103,7 +103,7 @@ For more detailed information about the SIE Exam, visit the **FINRA Exam Informa
 
 By understanding the SIE Exam format, you can approach your preparation with a clear strategy and confidence. Remember, the key to success lies in thorough preparation and a deep understanding of the exam's structure and content.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

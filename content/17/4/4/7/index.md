@@ -119,7 +119,7 @@ Understanding the rules and regulations surrounding borrowing and lending betwee
 
 ---
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

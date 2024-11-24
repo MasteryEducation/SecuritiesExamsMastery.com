@@ -119,7 +119,7 @@ As you prepare for the SIE Exam, understanding government spending and taxation 
 
 ---
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

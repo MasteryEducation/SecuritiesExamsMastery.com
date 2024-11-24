@@ -123,7 +123,7 @@ Investors and professionals should report suspected fraud to authorities such as
 
 Understanding fraudulent activities is essential for anyone involved in the securities industry. By recognizing common types of fraud, familiarizing yourself with the regulatory framework, and implementing prevention measures, you can protect yourself and others from deceitful practices. As you prepare for the SIE Exam, focus on these key concepts and consider how they apply in real-world scenarios.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

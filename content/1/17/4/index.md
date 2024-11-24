@@ -111,7 +111,7 @@ To navigate the complexities of cryptocurrency investing, consider the following
 
 Cryptocurrencies and digital assets represent a significant shift in the financial landscape, offering both opportunities and challenges for investors. By understanding the fundamentals, potential benefits, and risks, investors can make informed decisions and strategically incorporate digital assets into their portfolios. As the regulatory environment continues to evolve, staying informed and adaptable will be key to success in this dynamic market.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

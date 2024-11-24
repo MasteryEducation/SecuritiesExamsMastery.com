@@ -119,7 +119,7 @@ Regulatory measures aim to maintain market integrity and protect investors durin
 
 Understanding global economic events and their implications is essential for securities professionals. These events can shape market conditions, influence investment strategies, and require effective risk management. By staying informed and adapting to changing circumstances, you can navigate the complexities of the securities industry and make informed decisions for your clients.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

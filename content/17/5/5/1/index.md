@@ -96,7 +96,7 @@ For further information on Regulation Best Interest and related requirements, yo
 - [SEC - Form CRS Relationship Summary](https://www.sec.gov/info/smallbus/secg/form-crs-relationship-summary)
 - [FINRA - Regulation Best Interest](https://www.finra.org/rules-guidance/key-topics/regulation-best-interest)
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

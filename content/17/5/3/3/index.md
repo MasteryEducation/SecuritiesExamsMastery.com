@@ -122,7 +122,7 @@ A firm conducts a needs analysis and identifies a gap in product knowledge among
 - **Regulatory Element:** Periodic training focused on regulatory and compliance issues, administered by FINRA.
 - **Firm Element:** Annual training developed and delivered by the firm to address specific needs.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

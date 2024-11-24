@@ -108,7 +108,7 @@ For those preparing for the Securities Industry Essentials (SIE) Exam, understan
 
 By understanding liquidity risk and implementing effective management strategies, investors can better navigate the complexities of the financial markets and make informed decisions that align with their investment goals.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

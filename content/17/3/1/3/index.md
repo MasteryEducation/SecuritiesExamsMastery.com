@@ -101,7 +101,7 @@ For the SIE Exam, it is essential to understand how rights and warrants function
 
 By mastering the concepts of rights and warrants, you will be well-prepared for the SIE Exam and equipped with valuable knowledge for your career in the securities industry.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

@@ -131,7 +131,7 @@ Effective time management is crucial for SIE Exam success. It leads to consisten
 
 - **Time Management Techniques:** [How to Manage Time Effectively](https://www.entrepreneur.com/article/240230)
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

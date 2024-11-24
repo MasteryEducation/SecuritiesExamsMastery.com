@@ -273,7 +273,7 @@ Refer to Appendix B for the complete list of Common Acronyms and Abbreviations. 
 
 ---
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

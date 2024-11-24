@@ -92,7 +92,7 @@ For the SIE Exam, it is essential to understand the features, types, and risks o
 - **SEC's Investor Bulletin:** [Corporate Bonds](https://www.sec.gov/oiea/investor-alerts-bulletins/ib_corporatebonds)
 - **FINRA's Bond Basics:** [Understanding Bonds](https://www.finra.org/investors/insights/bond-basics)
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

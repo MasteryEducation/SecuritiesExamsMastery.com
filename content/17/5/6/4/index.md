@@ -126,7 +126,7 @@ A data breach can severely damage a firm's reputation and erode customer trust. 
 - **SEC Guidance on Cybersecurity:** [SEC - Cybersecurity and Resiliency Observations](https://www.sec.gov/files/OCIE%20Cybersecurity%20and%20Resiliency%20Observations.pdf)
 - **FINRA Small Firm Cybersecurity Checklist:** [Cybersecurity Checklist](https://www.finra.org/sites/default/files/Cybersecurity_Checklist.pdf)
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

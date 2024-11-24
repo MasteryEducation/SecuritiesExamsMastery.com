@@ -193,7 +193,7 @@ Options contracts are a versatile and powerful tool in the securities industry, 
 
 ---
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

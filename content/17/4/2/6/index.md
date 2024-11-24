@@ -140,7 +140,7 @@ For the SIE Exam, it's important to have a thorough understanding of the differe
 - **FINRA Investor Education:** [Saving for Retirement](https://www.finra.org/investors/learn-to-invest/types-accounts/retirement-accounts)
 - **Department of Labor – ERISA:** [Employee Retirement Income Security Act](https://www.dol.gov/general/topic/retirement/erisa)
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

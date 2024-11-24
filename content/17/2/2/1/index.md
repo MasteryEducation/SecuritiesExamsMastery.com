@@ -100,7 +100,7 @@ As you prepare for the SIE Exam, focus on understanding the mechanisms of the pr
 - **SEC's Introduction to Primary Markets:** [SEC Investor Publications](https://www.sec.gov/education/generalinformation/eregister/market.htm#primary)
 - **Educational Materials on IPOs and Underwriting Processes**
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

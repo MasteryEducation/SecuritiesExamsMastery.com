@@ -137,7 +137,7 @@ Investing is a lifelong journey that requires ongoing education and adaptation. 
 
 Investing in your education is one of the most valuable investments you can make. By leveraging the resources and courses outlined in this guide, you can build a strong foundation of financial literacy and investment knowledge. Remember, the key to successful investing is continuous learning and adaptation to the ever-changing financial landscape.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

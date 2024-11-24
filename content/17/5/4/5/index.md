@@ -156,7 +156,7 @@ To reinforce your understanding of complaint handling and reporting requirements
 - **Scenario Analysis:** Review hypothetical scenarios involving customer complaints and determine the appropriate course of action.
 - **Regulatory Compliance:** Practice identifying potential violations of FINRA rules related to complaint handling.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

@@ -199,7 +199,7 @@ To illustrate the application of financial ratios, consider the following scenar
 
 Financial ratios are indispensable tools for analyzing a company's financial health and performance. By mastering these ratios, you will be well-equipped to evaluate investment opportunities and succeed on the SIE Exam. Remember to practice calculations, understand the context, and apply your knowledge in case studies and real-world scenarios.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

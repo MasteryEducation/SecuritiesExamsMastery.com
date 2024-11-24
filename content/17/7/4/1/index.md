@@ -83,7 +83,7 @@ Being well-prepared for exam day logistics can significantly reduce stress and a
 
 By understanding what to expect on exam day, you can approach the SIE Exam with confidence and focus, increasing your chances of success. Remember to review all relevant materials, practice effective time management, and maintain a calm and composed mindset.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

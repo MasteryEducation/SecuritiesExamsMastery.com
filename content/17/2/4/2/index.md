@@ -116,7 +116,7 @@ Investors often use sector rotation strategies to capitalize on different phases
 - **National Bureau of Economic Research (NBER):** [Business Cycle Information](https://www.nber.org/research/business-cycles)
 - **Conference Board Leading Economic Index:** [Leading Indicators](https://www.conference-board.org/data/bcicountry.cfm)
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

@@ -124,7 +124,7 @@ Sustainable and ethical investing is more than just a trend; it's a fundamental 
 
 ---
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

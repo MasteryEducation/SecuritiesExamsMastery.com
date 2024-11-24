@@ -114,7 +114,7 @@ Understanding exchange rates and currency valuation is crucial for the SIE Exam.
 - **Federal Reserve:** [Foreign Exchange Rates Data](https://www.federalreserve.gov/releases/h10/)
 - **Investopedia:** [Exchange Rate Definition](https://www.investopedia.com/terms/e/exchangerate.asp)
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

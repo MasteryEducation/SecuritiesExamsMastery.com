@@ -103,7 +103,7 @@ For the SIE Exam, it is essential to recognize how prepayment and extension risk
 
 By understanding these risks and their implications, you can better navigate the complexities of fixed income investments and enhance your preparedness for the SIE Exam.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

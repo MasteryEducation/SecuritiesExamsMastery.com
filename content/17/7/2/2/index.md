@@ -92,7 +92,7 @@ Engaging with practice questions and mock exams is not just about passing the SI
 
 - **FINRA Sample Questions:** [FINRA SIE Exam Practice](https://www.finra.org/registration-exams-ce/qualification-exams/securities-industry-essentials-exam)
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

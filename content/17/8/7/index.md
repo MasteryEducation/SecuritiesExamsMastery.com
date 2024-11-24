@@ -166,7 +166,7 @@ Knowing how to contact these regulatory agencies is not only crucial for complia
 
 The contact information for regulatory agencies provided in this section is a vital resource for anyone preparing for the SIE Exam. Understanding how to effectively communicate with these organizations is essential for compliance, ethical practice, and professional success in the securities industry.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

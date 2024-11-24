@@ -70,7 +70,7 @@ Forward contracts are a powerful tool for managing currency risk, providing busi
 
 By understanding and utilizing forward contracts, businesses can protect themselves against the volatility of exchange rates, ensuring that they can focus on their core operations without being adversely affected by currency fluctuations.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

@@ -133,7 +133,7 @@ For further exploration of technical analysis, consider the following resources:
 
 Technical analysis is a powerful tool for evaluating securities and predicting market trends. By understanding its key concepts, assumptions, and applications, you can enhance your ability to interpret market data and make informed trading decisions. Remember to combine technical analysis with other methods and continuously refine your skills through practice and study.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

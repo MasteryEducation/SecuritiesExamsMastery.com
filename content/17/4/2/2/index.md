@@ -117,7 +117,7 @@ Firms must retain account records for at least six years after the account is cl
 - **SEC's Investor Bulletin:** [Opening an Investment Account](https://www.sec.gov/investor/alerts/ib_opening.html)
 - **FINRA Rule 4512:** [Customer Account Information](https://www.finra.org/rules-guidance/rulebooks/finra-rules/4512)
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

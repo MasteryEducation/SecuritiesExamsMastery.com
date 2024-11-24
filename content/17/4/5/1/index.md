@@ -147,7 +147,7 @@ To excel in the SIE Exam, focus on the following strategies:
 - **Practice Application:** Use practice questions and scenarios to apply your knowledge and identify areas for improvement.
 - **Review Regularly:** Consistently review key terms and concepts to reinforce your understanding.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

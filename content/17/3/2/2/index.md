@@ -106,7 +106,7 @@ For further reading and authoritative information, you can refer to the followin
 - **U.S. Department of the Treasury:** [Treasury Securities](https://www.treasurydirect.gov/indiv/products/products.htm)
 - **FINRA’s Investor Insights:** [Understanding U.S. Treasury Securities](https://www.finra.org/investors/insights/us-treasury-securities)
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

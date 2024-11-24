@@ -104,7 +104,7 @@ To deepen your understanding of trade confirmation and settlement, consider expl
 
 By mastering the concepts of trade confirmation and settlement, you will be well-prepared for the SIE Exam and equipped to navigate the complexities of securities transactions in your professional career.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

@@ -225,7 +225,7 @@ For more detailed explanations and additional sample forms, refer to Appendix D.
 
 ---
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

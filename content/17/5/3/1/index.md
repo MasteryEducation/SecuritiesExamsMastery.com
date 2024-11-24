@@ -132,7 +132,7 @@ For further exploration of associated person registration, consider the followin
 - **Form U4 Information**: [FINRA - Form U4 and U5](https://www.finra.org/registration-exams-ce/classic-crd/form-u4-u5)
 - **SEC's Guide on Registration**: [SEC - Registration and Qualification Requirements](https://www.sec.gov/fast-answers/answersregrequityhtm.html)
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

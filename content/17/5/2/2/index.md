@@ -133,7 +133,7 @@ Understanding the MSRB and its rules is essential for success on the SIE Exam. K
 - **EMMA**: [Electronic Municipal Market Access](https://emma.msrb.org/)
 - **MSRB Rulebook**: [MSRB Rules](http://www.msrb.org/Rules-and-Interpretations/MSRB-Rules.aspx)
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

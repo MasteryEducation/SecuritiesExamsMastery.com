@@ -124,7 +124,7 @@ Understanding the Securities Exchange Act of 1934 is essential for the SIE Exam,
 - **Investor Publications on Secondary Markets:** [SEC - Secondary Markets](https://www.sec.gov/oiea/investor-alerts-bulletins/ib_secondarymarket.html)
 - **Investopedia:** [Securities Exchange Act of 1934](https://www.investopedia.com/terms/s/seact1934.asp)
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

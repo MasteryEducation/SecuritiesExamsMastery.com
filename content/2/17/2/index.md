@@ -127,7 +127,7 @@ To get the most out of investment research platforms, consider exploring the fol
 
 Investment research platforms are invaluable tools for building and managing your investment portfolio. By understanding their features and learning how to use them effectively, you can make more informed investment decisions and achieve your financial goals. Whether you are a novice investor or a seasoned professional, these platforms offer the insights and analysis needed to navigate the complex world of investing.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

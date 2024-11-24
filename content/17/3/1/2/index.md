@@ -154,7 +154,7 @@ To help remember the key features of preferred stock for the SIE Exam, consider 
 
 Preferred stock is a versatile investment vehicle with unique features that blend equity and debt characteristics. Understanding its types, benefits, and risks is essential for the SIE Exam and a successful career in the securities industry. By mastering preferred stock concepts, you can confidently navigate the complexities of equity securities and enhance your investment strategies.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

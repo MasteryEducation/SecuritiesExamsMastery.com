@@ -148,7 +148,7 @@ For a more comprehensive list of additional resources and recommended reading, p
 
 ---
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

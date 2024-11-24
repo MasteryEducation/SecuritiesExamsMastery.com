@@ -137,7 +137,7 @@ As you prepare for the SIE Exam, keep these best practices and common pitfalls i
 
 Preparing for the SIE Exam requires dedication, strategy, and the right resources. By creating a structured study plan, utilizing reputable materials, and engaging in active learning, you can build the confidence and knowledge needed to succeed. Remember to manage your time effectively, take care of your well-being, and stay focused on your goals. With these strategies, you are well on your way to mastering the SIE Exam and advancing your career in the securities industry.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

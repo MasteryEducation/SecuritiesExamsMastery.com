@@ -147,7 +147,7 @@ For the SIE Exam, it is essential to understand the features, benefits, risks, a
 
 ---
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

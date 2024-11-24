@@ -168,7 +168,7 @@ In practice, financial institutions must integrate Regulation S-P requirements i
 
 Regulation S-P plays a vital role in protecting consumer privacy in the securities industry. By understanding its requirements and implications, you can ensure compliance and build trust with your customers. This knowledge is not only essential for the SIE Exam but also for a successful career in the securities industry.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

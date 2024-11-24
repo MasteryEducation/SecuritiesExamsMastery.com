@@ -141,7 +141,7 @@ Mastering the intricacies of advertising and sales literature is essential for c
 
 ---
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

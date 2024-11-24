@@ -137,7 +137,7 @@ For further exploration of gifts, gratuities, and non-cash compensation rules, r
 
 By understanding and adhering to these regulations, securities professionals can maintain ethical standards, avoid conflicts of interest, and build trust with clients and counterparties.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

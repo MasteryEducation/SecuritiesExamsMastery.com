@@ -108,7 +108,7 @@ Regular training and updates for employees on CTR requirements and AML complianc
 
 ---
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

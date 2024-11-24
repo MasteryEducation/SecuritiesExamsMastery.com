@@ -91,7 +91,7 @@ For the SIE Exam, it is crucial to understand the purpose and key provisions of 
 - **Investor Publications on Securities Offerings:** [SEC - Offering Information](https://www.sec.gov/spotlight/investor-advisory-committee-2012/offering.pdf)
 - **Investopedia:** [Securities Act of 1933](https://www.investopedia.com/terms/s/securitiesact1933.asp)
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

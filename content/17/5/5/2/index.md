@@ -139,7 +139,7 @@ To excel in the SIE Exam, focus on the following strategies:
 - **Practice Scenarios:** Work through practice scenarios to apply your knowledge of suitability and KYC in real-world contexts.
 - **Review Regulatory References:** Familiarize yourself with FINRA rules and regulatory notices to strengthen your understanding of compliance requirements.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

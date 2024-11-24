@@ -101,7 +101,7 @@ Setting study goals and objectives is not just about organizing your study time;
 
 By setting clear study goals and objectives, you can create a structured and effective study plan that increases your chances of success on the SIE Exam. Remember, the key is to remain flexible and adjust your plan as needed to accommodate your learning pace and any unforeseen challenges.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

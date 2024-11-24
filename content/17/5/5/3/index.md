@@ -115,7 +115,7 @@ Beyond regulatory penalties, non-compliance can lead to reputational damage. Los
 
 ---
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

@@ -99,7 +99,7 @@ Understanding how to interpret financial news is an essential skill for investor
 
 Staying informed with financial news and publications is a vital component of successful investing. By relying on trusted sources, critically evaluating information, and maintaining a long-term perspective, you can make informed investment decisions that align with your financial goals. Remember, the key is not just to consume information but to understand and apply it effectively in your investment strategy.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

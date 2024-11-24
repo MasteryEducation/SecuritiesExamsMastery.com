@@ -124,7 +124,7 @@ To ensure compliance and prevent unauthorized transactions, firms should impleme
 
 Unauthorized transactions pose a significant threat to the integrity of the securities industry. By understanding the types, regulatory requirements, consequences, and preventive measures, financial professionals can effectively safeguard their clients' interests and uphold industry standards. As you prepare for the SIE Exam, focus on mastering these concepts and applying them in practice to excel in your securities career.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

@@ -90,7 +90,7 @@ For further exploration of closed-end funds, consider the following authoritativ
 - **SEC's Investor Bulletin:** [Closed-End Funds](https://www.sec.gov/investor/alerts/ib_closed-end_funds.pdf)
 - **Investopedia:** [Understanding Closed-End Funds](https://www.investopedia.com/terms/c/closed-endinvestment.asp)
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

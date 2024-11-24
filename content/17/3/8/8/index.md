@@ -86,7 +86,7 @@ Understanding reinvestment risk is essential for the SIE Exam. You should be abl
 
 ---
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

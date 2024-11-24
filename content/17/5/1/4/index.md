@@ -123,7 +123,7 @@ For the SIE Exam, understanding the Investment Advisers Act of 1940 is crucial. 
 - **Investor Publications on Advisers:** [SEC - Investment Adviser Public Disclosure](https://www.adviserinfo.sec.gov/)
 - **Investopedia:** [Investment Advisers Act of 1940](https://www.investopedia.com/terms/i/investment-advisers-act-1940.asp)
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

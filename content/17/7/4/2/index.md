@@ -102,7 +102,7 @@ For more detailed information on exam conduct policies, visit the [Prometric Tes
 
 ---
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

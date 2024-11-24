@@ -115,7 +115,7 @@ For the SIE Exam, understanding the concept of securitization and how ABS are st
 
 ---
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

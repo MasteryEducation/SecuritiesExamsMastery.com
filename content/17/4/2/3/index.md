@@ -151,7 +151,7 @@ The fiduciary standard applies to investment advisers, who must act in the best 
 
 Understanding suitability requirements is essential for anyone involved in the securities industry. By adhering to FINRA Rule 2111 and considering the various components of suitability, brokers can ensure that their recommendations align with the investor's profile, promoting ethical and responsible trading practices. This not only protects investors but also upholds the integrity of the financial markets.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

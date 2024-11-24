@@ -89,7 +89,7 @@ Given the reduced regulatory oversight, investor protection is a critical consid
 
 ---
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

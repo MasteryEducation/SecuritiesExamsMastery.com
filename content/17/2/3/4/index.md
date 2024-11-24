@@ -127,7 +127,7 @@ To effectively prepare for the SIE Exam, focus on understanding the purposes and
 
 By mastering the concepts of secondary offerings, you will be well-prepared to tackle related questions on the SIE Exam and apply this knowledge in your future career in the securities industry.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

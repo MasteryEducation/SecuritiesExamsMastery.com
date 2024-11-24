@@ -94,7 +94,7 @@ To ensure adherence to regulatory requirements regarding selling away and outsid
 - **FINRA Rule 3270:** [FINRA - Outside Business Activities](https://www.finra.org/rules-guidance/rulebooks/finra-rules/3270)
 - **FINRA Notices:** [Guidance on OBA and Selling Away](https://www.finra.org/rules-guidance/notices/notice-to-members-01-79)
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

@@ -116,7 +116,7 @@ The competition among trading venues has driven innovation and improved services
 - **SEC's Regulation ATS:** [Regulation of Exchanges and Alternative Trading Systems](https://www.sec.gov/fast-answers/answersalttradinghtm.html)
 - **Educational Materials on Electronic Trading**
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

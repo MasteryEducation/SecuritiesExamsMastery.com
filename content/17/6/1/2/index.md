@@ -127,7 +127,7 @@ Understanding inflation and deflation is essential for the SIE Exam as it impact
 - **Federal Reserve:** [Monetary Policy and Inflation](https://www.federalreserve.gov/monetarypolicy.htm)
 - **Investopedia:** [Inflation Definition](https://www.investopedia.com/terms/i/inflation.asp)
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

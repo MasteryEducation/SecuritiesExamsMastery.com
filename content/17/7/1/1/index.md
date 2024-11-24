@@ -119,7 +119,7 @@ To further illustrate the importance of assessing knowledge gaps, consider the f
 
 Assessing your knowledge gaps is a critical step in preparing for the SIE Exam. By understanding the exam content outline, conducting a self-evaluation, setting a baseline, and tailoring your study plan, you can efficiently address your weaknesses and build a comprehensive understanding of the exam topics. This targeted approach will not only boost your confidence but also increase your chances of success on exam day.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

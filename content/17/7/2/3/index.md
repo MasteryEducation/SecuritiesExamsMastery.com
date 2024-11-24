@@ -100,7 +100,7 @@ By employing these strategies, you can enhance your memory retention and increas
 
 - **Memory Improvement Techniques:** [How to Use Mnemonics](https://www.psychologytoday.com/us/blog/memory-medic/201310/mnemonics-easy-and-effective-strategy-improving-memory)
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

@@ -120,7 +120,7 @@ For further reading and authoritative resources, consider the following:
 
 These resources provide valuable insights into the regulatory and investment aspects of ADRs.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

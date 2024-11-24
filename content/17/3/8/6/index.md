@@ -106,7 +106,7 @@ For the SIE Exam, it's important to understand how currency risk affects interna
 - **Investopedia:** [Understanding Currency Risk](https://www.investopedia.com/terms/c/currencyrisk.asp)
 - **SEC Investor Publications:** [International Investing](https://www.sec.gov/reportspubs/investor-publications/investorpubsininvesthtm.html)
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

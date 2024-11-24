@@ -140,7 +140,7 @@ graph TD;
 - Exchange rates, economic policies, and competitiveness are key factors affecting BOT and BOP.
 - Understanding these concepts is crucial for the SIE Exam and for making informed investment decisions.
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

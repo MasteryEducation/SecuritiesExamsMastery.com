@@ -94,7 +94,7 @@ For further reading and authoritative insights, consider the following resources
 
 ---
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

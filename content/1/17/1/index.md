@@ -128,7 +128,7 @@ For those interested in exploring the impact of technology on investing further,
 
 ---
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 

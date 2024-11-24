@@ -126,7 +126,7 @@ For the SIE Exam, understanding the Red Flags Rule is essential. You should be f
 - **FTC Business Guidance:** [FTC - Red Flags Rule](https://www.ftc.gov/tips-advice/business-center/privacy-and-security/red-flags-rule)
 - **FINRA Compliance Resources:** [FINRA - Identity Theft](https://www.finra.org/rules-guidance/key-topics/identity-theft)
 
-## Quiz Time!
+## FINRA SIE Exam Practice Questions
 
 {{< quizdown >}}
 
