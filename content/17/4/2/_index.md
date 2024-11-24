@@ -1,5 +1,5 @@
 ---
 title: "4.2 Customer Accounts"
 type: docs
-nav_weight: 4200
+nav_weight: 42000
 ---

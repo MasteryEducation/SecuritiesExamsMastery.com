@@ -75,7 +75,7 @@ For further reading on avoiding retirement planning mistakes, consider the follo
 
 By understanding and avoiding these common retirement planning mistakes, you can create a secure and comfortable retirement. Remember to start early, regularly review your plan, and adjust your investment strategies as needed to ensure a successful retirement.
 
-## Quiz Time!
+## FINRA Series 6 Exam Practice Questions
 
 {{< quizdown >}}
 

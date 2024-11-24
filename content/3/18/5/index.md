@@ -108,7 +108,7 @@ To mitigate the risks associated with social investing, investors should adopt b
 
 Social media and online forums have transformed the landscape of investing, offering both opportunities and challenges. By understanding the benefits and risks, and adopting best practices, investors can leverage these platforms effectively while safeguarding their investments. As you prepare for the US Securities Exams, consider how social media influences market dynamics and the regulatory considerations that arise from this modern phenomenon.
 
-## Quiz Time!
+## FINRA Series 6 Exam Practice Questions
 
 {{< quizdown >}}
 

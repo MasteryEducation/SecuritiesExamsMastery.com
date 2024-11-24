@@ -86,7 +86,7 @@ John, a long-term employee, receives his annual pension statement. It shows he i
 
 For further information, refer to the official Social Security Administration website at [www.ssa.gov](https://www.ssa.gov) and consult your pension plan administrator for specific details about your plan.
 
-## Quiz Time!
+## FINRA Series 6 Exam Practice Questions
 
 {{< quizdown >}}
 

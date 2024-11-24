@@ -105,7 +105,7 @@ While mobile apps make trading more accessible, they do not guarantee success. I
 
 Mobile trading apps are powerful tools that can enhance your investing experience. By understanding their features, choosing the right platform, and using them responsibly, you can effectively manage your investment portfolio and work towards achieving your financial goals.
 
-## Quiz Time!
+## FINRA Series 6 Exam Practice Questions
 
 {{< quizdown >}}
 

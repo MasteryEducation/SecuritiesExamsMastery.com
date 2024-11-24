@@ -104,7 +104,7 @@ The impact of technology on financial markets is profound and far-reaching. Fint
 - **PwC's Fintech Insights:** [Link to report]
 - **Deloitte's Analysis on Technological Trends:** [Link to report]
 
-## Quiz Time!
+## FINRA Series 6 Exam Practice Questions
 
 {{< quizdown >}}
 

@@ -109,7 +109,7 @@ Setting retirement goals is a vital step in ensuring a secure and enjoyable reti
 
 ---
 
-## Quiz Time!
+## FINRA Series 6 Exam Practice Questions
 
 {{< quizdown >}}
 

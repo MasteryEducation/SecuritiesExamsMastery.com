@@ -92,7 +92,7 @@ In the United States, the Securities and Exchange Commission (SEC) and the Finan
 
 ---
 
-## Quiz Time!
+## FINRA Series 6 Exam Practice Questions
 
 {{< quizdown >}}
 

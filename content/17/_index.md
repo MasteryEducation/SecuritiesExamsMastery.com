@@ -15,7 +15,7 @@ menu:
         name: book
         className: text-primary
 # homepage: true
-canonical: "https://securitiesexamsmastery.com/4"
+canonical: "https://securitiesexamsmastery.com/17"
 license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 

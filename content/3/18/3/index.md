@@ -113,7 +113,7 @@ Given the profound impact of algorithmic and HFT on markets, regulatory bodies s
 
 ---
 
-## Quiz Time!
+## FINRA Series 6 Exam Practice Questions
 
 {{< quizdown >}}
 

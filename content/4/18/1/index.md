@@ -92,7 +92,7 @@ In today’s market, there are numerous electronic trading platforms available t
 
 Electronic trading platforms have fundamentally transformed the landscape of financial markets, offering unprecedented access, speed, and efficiency. As technology continues to evolve, these platforms are likely to become even more sophisticated, providing traders with enhanced tools and capabilities. For those preparing for US Securities Exams, understanding the role and functionality of electronic trading platforms is crucial, as they represent a significant component of modern financial markets.
 
-## Quiz Time!
+## FINRA Series 6 Exam Practice Questions
 
 {{< quizdown >}}
 

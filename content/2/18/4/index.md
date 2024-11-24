@@ -93,7 +93,7 @@ Institutions like the Stanford Center on Longevity conduct extensive research on
 
 Crafting a well-thought-out retirement income strategy is essential for financial security in your later years. By understanding and implementing systematic withdrawals, annuities, and dividend-paying investments, you can create a sustainable income stream that supports your retirement lifestyle. Remember to regularly review and adjust your strategies to align with market conditions and personal circumstances.
 
-## Quiz Time!
+## FINRA Series 6 Exam Practice Questions
 
 {{< quizdown >}}
 

@@ -254,7 +254,7 @@ A bond that does not pay periodic interest, sold at a discount from its face val
 
 This glossary is designed to be a living document. As you continue your journey in understanding securities and investing, feel free to revisit this section to refresh your knowledge or clarify any terms. Remember, mastering the language of finance is an essential step toward becoming a proficient investor.
 
-## Quiz Time!
+## FINRA Series 6 Exam Practice Questions
 
 {{< quizdown >}}
 

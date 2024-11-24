@@ -97,7 +97,7 @@ To further your understanding of cryptocurrencies and blockchain technology, con
 
 Cryptocurrencies and blockchain technology represent a significant shift in the way we think about money and transactions. By understanding these digital innovations, you can better navigate the evolving financial landscape and make informed decisions about investing and trading in cryptocurrencies.
 
-## Quiz Time!
+## FINRA Series 6 Exam Practice Questions
 
 {{< quizdown >}}
 

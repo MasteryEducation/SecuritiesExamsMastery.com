@@ -118,7 +118,7 @@ Consider the case of Jane, a 55-year-old planning to retire at 65. Jane's pre-re
 
 Estimating your retirement needs is a vital step in securing your financial future. By understanding and applying the methods outlined in this guide, you can develop a comprehensive retirement plan that aligns with your goals and lifestyle. Remember to review your plan regularly and adjust as needed to stay on track for a comfortable retirement.
 
-## Quiz Time!
+## FINRA Series 6 Exam Practice Questions
 
 {{< quizdown >}}
 

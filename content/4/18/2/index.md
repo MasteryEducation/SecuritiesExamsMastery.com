@@ -109,7 +109,7 @@ Algorithmic trading has revolutionized the financial markets, offering numerous 
 
 ---
 
-## Quiz Time!
+## FINRA Series 6 Exam Practice Questions
 
 {{< quizdown >}}
 

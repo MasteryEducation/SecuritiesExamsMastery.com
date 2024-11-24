@@ -116,7 +116,7 @@ Betterment is one of the leading robo-advisors in the U.S., known for its user-f
 
 Robo-advisors represent a significant advancement in the field of investment management, offering cost-effective, accessible, and automated solutions for investors. While they provide numerous benefits, it's essential to recognize their limitations and evaluate them within the context of your financial goals. As you prepare for your US Securities Exams, understanding the nuances of robo-advisors will equip you with the knowledge to navigate this innovative landscape confidently.
 
-## Quiz Time!
+## FINRA Series 6 Exam Practice Questions
 
 {{< quizdown >}}
 
