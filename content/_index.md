@@ -1,5 +1,5 @@
 ---
-title: "FINRA Series Mock Exams: Hardest SIE, Series 6, 7, 63, 65, & 66 Prep"
+title: "FINRA Series Mock Exams: Hardest SIE, Series 6, 7, 63, & 66 Prep"
 description: |
   Accelerate your Series exam success with our hardest FINRA SIE, Series 7, Series 6, Series 63, and Series 66 mock exams. Gain clarity, confidence, and mastery for your securities certifications.
 #layout: landing
@@ -11,7 +11,7 @@ license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 
-# FINRA Series Mock Exams: Hardest SIE, Series 6, 7, 63, 65, & 66 Prep
+# FINRA Series Mock Exams: Hardest SIE, Series 6, 7, 63, & 66 Prep
 
 > Specializing in high-quality securities exam preparation, we provide rigorous mock tests, in-depth study guides, and expert insights to help you excel in FINRA, NASAA, MSRB, NFA exams, and professional certifications like the CFA, CFP, and FRM. Gain access to the latest industry updates, comprehensive explanations, and real-world practice questions that surpass standard guides.
 
