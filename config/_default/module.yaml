@@ -84,8 +84,8 @@ imports:
   - path: github.com/hbstack/bootstrap
   #- path: github.com/hugomods/images
   - path: github.com/hugomods/shortcodes
-  - path: github.com/hbstack/footer
-  - path: github.com/hbstack/footer/modules/socials
+  # - path: github.com/hbstack/footer
+  # - path: github.com/hbstack/footer/modules/socials
   - path: github.com/hbstack/header
   #- path: github.com/hbstack/header/modules/language-picker
   - path: github.com/hbstack/header/modules/socials
