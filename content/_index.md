@@ -29,38 +29,7 @@ Your one-stop destination for conquering the complexities of the U.S. securities
 - **Always Up-to-Date**: Stay current with the newest rules, regulations, and best practices, reflecting real exam changes as they happen.  
 - **Comprehensive Coverage**: From beginners to experts, we cater to all levels, including fundamental topics, advanced strategies, and professional designations.
 
----
 
-## Our Brand-New FINRA Series Courses on Udemy (35% Discount)
-
-Level up your test prep with these 5 newly launched courses—specifically designed to provide harder-than-real mock exams, crystal-clear explanations, and proven test-taking strategies. Each course includes a unique coupon link offering a 35% discount.
-
-1. **FINRA SIE: Hardest Mocks, Clarity & In-Depth Explanations**  
-   Achieve mastery and confidence for the Securities Industry Essentials exam with 6 full-length tests (250 questions each), detailed solutions, and insights that go beyond typical study guides.  
-   ► Enroll here with 35% off:  
-   [FINRA SIE Mock Exams](https://www.udemy.com/course/finra-sie-mock-exams/?couponCode=07F719390F38DB12E43B)
-
-2. **FINRA Series 6: Hardest Mocks & In-Depth Explanations**  
-   Excel at mutual funds, variable annuities, and investment company products. Benefit from 6 rigorous mock exams (1,500 questions) tested by real candidates.  
-   ► Enroll here with 35% off:  
-   [FINRA Series 6 Mock Exams](https://www.udemy.com/course/finra-series-6-mock-exams/?couponCode=SERIES-6-DISCOUNT)
-
-3. **FINRA Series 7: Hardest Mocks & Clear In-Depth Explanations**  
-   Conquer the General Securities Representative qualification. Includes 6 comprehensive exams (over 1,500 questions total) carefully crafted to challenge you more than the official exam.  
-   ► Enroll here with 35% off:  
-   [FINRA Series 7 Mock Exams](https://www.udemy.com/course/series-7-mock-exams/?couponCode=SERIES-7-DISCOUNT)
-
-4. **Series 63 Hardest Mock Exams: In-Depth & Clear Explanations**  
-   Get the uniform state law perspective with 6 advanced mock exams (1,500 questions). Drill into state regulations, ethics, and compliance beyond official materials.  
-   ► Enroll here with 35% off:  
-   [Series 63 Mock Exams](https://www.udemy.com/course/series-63-mock-exams/?couponCode=SERIES-63-DISCOUNT)
-
-5. **Series 66 Hardest Mock Exams: In-Depth & Clear Explanations**  
-   Combine state law competency with in-depth advisory knowledge. Tackle 6 full-length exams, each loaded with 250 tough questions guaranteed to sharpen your acumen.  
-   ► Enroll here with 35% off:  
-   [Series 66 Mock Exams](https://www.udemy.com/course/series-66-mock-exams/?couponCode=SERIES-66-DISCOUNT)
-
----
 
 ### More Than Just Exams
 
@@ -85,11 +54,6 @@ Join thousands of aspiring and seasoned professionals who’ve boosted their car
 
 ---
 
-### Contact Us
-
-Have questions or need assistance? Reach out at [info@tokenizer.ca](mailto:info@tokenizer.ca?subject=SecuritiesExamsMastery.com) for friendly, expert support. Our team is here to guide you every step of the way.
-
----
 
 ### Disclaimer
 
