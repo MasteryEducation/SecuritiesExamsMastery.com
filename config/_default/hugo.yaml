@@ -11,8 +11,13 @@ enableEmoji: true
 meta.date: false
 
 markup:
+  goldmark:
+    renderer:
+      unsafe: true
   highlight:
     noClasses: false
+    lineNos: true
+    lineNumbersInTable: false
 
 permalinks:
   blog: /blog/:year/:month/:title
@@ -38,15 +43,6 @@ taxonomies:
 
 build:
   writeStats: true # required by PurgeCSS.
-
-markup:
-  goldmark:
-    renderer:
-      unsafe: true
-  highlight:
-    noClasses: false
-    lineNos: true
-    lineNumbersInTable: false
 
 # see https://gohugo.io/content-management/related/#configure-related-content
 related:
@@ -75,8 +71,3 @@ security:
       - PWD
       - GITHUB_TOKEN
 
-markup:
-  tableOfContents:
-    endLevel: 4
-    ordered: false
-    startLevel: 2

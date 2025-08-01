@@ -25,13 +25,13 @@ main:
         vendor: bs
         name: book
 
-  - name: Expert
-    identifier: expert
-    weight: 3
-    params:
-      icon:
-        vendor: bs
-        name: book
+  # - name: Expert
+  #   identifier: expert
+  #   weight: 3
+  #   params:
+  #     icon:
+  #       vendor: bs
+  #       name: book
 
   - name: Exams & Certifications
     identifier: exams

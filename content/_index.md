@@ -1,64 +1,79 @@
 ---
-title: "FINRA Series Mock Exams: Hardest SIE, Series 6, 7, 63, & 66 Prep"
-description: |
-  Accelerate your Series exam success with our hardest FINRA SIE, Series 7, Series 6, Series 63, and Series 66 mock exams. Gain clarity, confidence, and mastery for your securities certifications.
-#layout: landing
-#full_width: false
-homepage: true
-type: docs
-canonical: "https://securitiesexamsmastery.com"
-license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
+title: "Pass Your FINRA Exam with the Mastery App | SIE, Series 7 & More"
+description: "The ultimate study tool for FINRA exams. With 75,000+ questions, realistic mock exams, and detailed analytics, you can pass your SIE or Series exam during our 7-day free trial."
+layout: landing
 ---
 
+<div style="text-align: center; max-width: 850px; margin: auto; padding: 20px 0;">
 
-# FINRA Series Mock Exams: Hardest SIE, Series 6, 7, 63, & 66 Prep
+  <h1 style="font-size: 2.8rem; font-weight: 800; margin-bottom: 1rem;">Pass Your FINRA Exam. Guaranteed.</h1>
+  
+  <p style="font-size: 1.4rem; color: #555; margin-bottom: 2rem;">
+    The #1 study tool for U.S. Securities certifications. Get full access to <strong>75,000+ questions</strong> for the SIE, Series 7, and more. Pass with confidence during your one-week free trial.
+  </p>
 
-> Specializing in high-quality securities exam preparation, we provide rigorous mock tests, in-depth study guides, and expert insights to help you excel in FINRA, NASAA, MSRB, NFA exams, and professional certifications like the CFA, CFP, and FRM. Gain access to the latest industry updates, comprehensive explanations, and real-world practice questions that surpass standard guides.
+  <a href="https://apps.apple.com/app/apple-store/id1667869674" class="cta-button" style="display: inline-block; background-color: #007aff; color: white; padding: 18px 35px; font-size: 1.2rem; font-weight: bold; text-decoration: none; border-radius: 12px; margin-bottom: 1rem;">
+    Start Your Free 7-Day Trial
+  </a>
+  
+  <!-- App Store & Google Play Badges -->
+  <div class="app-badges">
+      <a href="https://apps.apple.com/app/apple-store/id1667869674"
+          style="display: inline-block; margin-right: 10px; vertical-align: middle;">
+          <img alt="Download on the App Store" src='/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg'
+              style="height: 50px;">
+      </a>
+      <a href="https://play.google.com/store/apps/details?id=ca.tokenizer.cscexams"
+          style="display: inline-block; vertical-align: middle;">
+          <img alt='Get it on Google Play' src='/GetItOnGooglePlay_Badge_Web_color_English.png'
+              style="height: 50px;" />
+      </a>
+  </div>
 
----
-
-## Welcome to SecuritiesExamsMastery.com
-
-Your one-stop destination for conquering the complexities of the U.S. securities industry. Whether you’re aiming for a FINRA license, a NASAA registration, or going after advanced certifications like CFA or CFP, we’re dedicated to providing the most challenging yet enlightening study resources available online.
-
-### Why Choose Us?
-
-- **Hardest Mock Exams**: Dive into exams that exceed real test difficulty, ensuring you’re more than prepared on exam day.  
-- **In-Depth Explanations**: Each question comes with detailed step-by-step rationales, reinforcing your understanding of key concepts.  
-- **Industry Experts**: Our content is curated by seasoned professionals who’ve advised top financial institutions and authored specialized curricula since 2004.  
-- **Always Up-to-Date**: Stay current with the newest rules, regulations, and best practices, reflecting real exam changes as they happen.  
-- **Comprehensive Coverage**: From beginners to experts, we cater to all levels, including fundamental topics, advanced strategies, and professional designations.
-
-
-
-### More Than Just Exams
-
-At SecuritiesExamsMastery.com, we also feature:
-
-- **Guides for All Levels**: Beginner overviews, intermediate deep-dives, and expert strategy manuals.  
-- **Professional Certifications**: Resources for CFA, CFP, FRM, and more.  
-- **Advanced Topics**: Quantitative analysis, algorithmic trading, wealth management, and regulatory compliance.  
-- **Community & Support**: Forums, Q&A boards, and a responsive support team to assist you on your certification journey.
-
----
-
-### Get Started on Your Path to Success
-
-Join thousands of aspiring and seasoned professionals who’ve boosted their careers through our courses. Whether you’re focusing on Series 6, Series 7, Series 63, Series 66, or the FINRA SIE, our targeted preparation will help you:
-
-- Build unshakable confidence  
-- Master test-taking strategies  
-- Clarify complex financial concepts  
-- Stand out in a competitive industry
+</div>
 
 
----
+
+<div style="max-width: 1000px; margin: auto; padding: 40px 15px;">
+  <h2 style="text-align: center; font-size: 2.2rem; margin-bottom: 2rem;">All The FINRA Exam Prep You Need</h2>
+  
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; text-align: left;">
+    
+   <div class="category-card" style="border: 1px solid #e0e0e0; padding: 20px; border-radius: 8px;">
+   <h3 style="font-size: 1.5rem; border-bottom: 2px solid #007aff; padding-bottom: 10px;">Securities Industry Essentials (SIE®)</h3>
+   <p>Build your foundational knowledge with our comprehensive SIE® question bank, covering all four sections of the exam.</p>
+   </div>
+   
+   <div class="category-card" style="border: 1px solid #e0e0e0; padding: 20px; border-radius: 8px;">
+   <h3 style="font-size: 1.5rem; border-bottom: 2px solid #007aff; padding-bottom: 10px;">General Securities (Series 7)</h3>
+   <p>Tackle the most challenging topics with in-depth questions and explanations for the Series 7 Top-Off exam.</p>
+   </div>
+   
+   <div class="category-card" style="border: 1px solid #e0e0e0; padding: 20px; border-radius: 8px;">
+   <h3 style="font-size: 1.5rem; border-bottom: 2px solid #007aff; padding-bottom: 10px;">State Law & Other Series Exams</h3>
+   <p>Full prep for Series 6, 63, 65, and 66, covering all state law and uniform securities act requirements.</p>
+   </div>
+    
+  </div>
+</div>
 
 
-### Disclaimer
 
-We are an independent provider of educational materials and are not affiliated with FINRA, NASAA, MSRB, NFA, or any other regulatory authority. Always refer to official bodies for the latest requirements. All trademarks belong to their respective owners.
+<div style="max-width: 850px; margin: auto; padding: 20px 15px;">
+  <h2 style="text-align: center; font-size: 2.2rem; margin-bottom: 2rem;">Why the Mastery App Works</h2>
+  <ul style="font-size: 1.1rem; list-style: none; padding: 0;">
+    <li style="margin-bottom: 15px;">✔️ <strong>Exam-True Questions:</strong> Prepare with questions designed to match the difficulty and style of the real FINRA test.</li>
+    <li style="margin-bottom: 15px;">✔️ <strong>Crystal-Clear Explanations:</strong> Don't just memorize—truly understand the 'why' behind every answer with detailed rationales.</li>
+    <li style="margin-bottom: 15px;">✔️ <strong>Adaptive Learning:</strong> Our analytics identify your weak areas and automatically build custom quizzes to turn them into strengths.</li>
+    <li style="margin-bottom: 15px;">✔️ <strong>Study Anywhere:</strong> Download question sets for full offline capability. No internet connection required.</li>
+  </ul>
+</div>
 
----
 
-**SecuritiesExamsMastery.com** – Empowering you with knowledge, guiding you to success. Invest in your future by enrolling today!  
+<div style="text-align: center; max-width: 850px; margin: auto; padding: 40px 0; border-top: 1px solid #e0e0e0; margin-top: 2rem;">
+  <h2 style="font-size: 2.2rem; margin-bottom: 1rem;">Ready to Get Your License?</h2>
+  <a href="https://apps.apple.com/app/apple-store/id1667869674" class="cta-button" style="display: inline-block; background-color: #007aff; color: white; padding: 18px 35px; font-size: 1.2rem; font-weight: bold; text-decoration: none; border-radius: 12px; margin-bottom: 1rem;">
+    Start Your Free 7-Day Trial
+  </a>
+  <p style="font-size: 1rem; color: #555;">Download the app and unlock all FINRA content today.</p>
+</div>
